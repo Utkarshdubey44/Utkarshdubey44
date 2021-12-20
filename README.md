@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utkarsh Dubey
-- 👀 I’m interested in Data Science and Data Analyst and PHP developer
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in PHP developer.
+- 🌱 I’m currently learning Codeigniter a framework of PHP
 - 📫 How to reach me ... Gmail-- Utkarshdubey44@gmail.com
 
 <!---
